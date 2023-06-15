@@ -1,2 +1,4 @@
 # gromacs_cp2k
-Docker file for GROMACS - CP2K image
+This is an Dockerfile. 
+You can execute:
+docker build -t <DOCERFILE IMAGE NAME> .
