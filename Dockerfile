@@ -1,4 +1,6 @@
 # Use a base image with the desired Linux distribution and version 
+# You can modify this DOCKERFILE to create an appropriate GROMACS-CP2K images
+#
 FROM ubuntu:latest
 
 # Install dependencies and required packages 
