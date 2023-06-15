@@ -3,4 +3,4 @@ This is a Dockerfile to build GROMACS with CP2K.
 
 You can execute:
 
-docker build -t <DOCERFILE IMAGE NAME> .
+docker  build  -t  DOCERFILE_IMAGE_NAME  .
